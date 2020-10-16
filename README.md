@@ -3,4 +3,4 @@ Simple dev-notes (examples for Hacktoberfest 2019/2020) getting more familiar wi
 
 
 # entwickler-notizen
-Einfache Entwickler-Notizen (Beispiele für Hacktoberfest 2019/2020) - nutzung von git/markdown
+Einfache Entwickler-Notizen (Beispiele für Hacktoberfest 2019/2020) - Nutzung von git/markdown
