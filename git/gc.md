@@ -1,4 +1,4 @@
-# Git gc
+# git gc
 
 `gc` stands for **garbage collection**.
 While doing some operations like `git reset` or `git rebase`, the history can be altered and Git accumulates various types of garbage like innaccessible commits, that can still be checked out, cherry-picked etc...
